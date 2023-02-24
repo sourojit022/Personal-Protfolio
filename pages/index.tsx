@@ -18,7 +18,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp;
+            Get started by editingsssss&nbsp;
             <code className={styles.code}>pages/index.tsx</code>
           </p>
           <div>
@@ -68,7 +68,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Docsssss <span>-&gt;</span>
+              DocssssssssAAA <span>-&gt;</span>
 
               
             </h2>
